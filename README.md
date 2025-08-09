@@ -1,4 +1,4 @@
-# -Banco de Dados-
+# Banco de Dados
 
 Projeto onde aprendi SQL por meio da realização de diversos exercícios práticos, o que me permitiu aplicar conceitos, resolver problemas reais e, assim, consolidar meus conhecimentos na linguagem.
 
