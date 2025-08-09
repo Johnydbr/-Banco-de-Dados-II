@@ -6,7 +6,7 @@ Projeto onde aprendi SQL por meio da realização de diversos exercícios práti
 
 * Filtrar registros (WHERE)
 
- *Ordenar resultados (ORDER BY)
+* Ordenar resultados (ORDER BY)
 
 * Inserir dados (INSERT)
 
